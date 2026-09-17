@@ -1,5 +1,5 @@
 {
-  "name": "notifier-hub-cdk",
+  "name": "se-notifier-hub-cdk",
   "version": "0.1.0",
   "private": true,
   "scripts": {
