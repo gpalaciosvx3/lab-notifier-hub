@@ -1,5 +1,5 @@
 {
-  "name": "se-notifier-hub-cdk",
+  "name": "lab-notifier-hub-cdk",
   "version": "0.1.0",
   "private": true,
   "scripts": {

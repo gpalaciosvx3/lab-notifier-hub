@@ -1,4 +1,4 @@
-# se-notifier-hub
+# lab-notifier-hub
 
 Plataforma centralizada de notificaciones para arquitecturas de microservicios. Resuelve cuatro problemas reales: templates versionados, idempotencia garantizada, webhooks de entrega y notificaciones programadas.
 

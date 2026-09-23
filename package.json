@@ -1,5 +1,5 @@
 {
-  "name": "se-notifier-hub",
+  "name": "lab-notifier-hub",
   "version": "1.0.0",
   "description": "Servicio de notificación multicanal - EMAIL (SES) + SMS (SNS)",
   "scripts": {

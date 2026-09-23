@@ -1,6 +1,6 @@
-# se-notifier-hub — CDK
+# lab-notifier-hub — CDK
 
-Infraestructura AWS del proyecto `se-notifier-hub`, definida con AWS CDK (TypeScript).
+Infraestructura AWS del proyecto `lab-notifier-hub`, definida con AWS CDK (TypeScript).
 
 ---
 
