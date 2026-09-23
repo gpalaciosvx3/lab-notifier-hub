@@ -1,3 +1,19 @@
+<p align="center">
+  <a href="https://gustavopalacios.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gpalaciosvx3/gpalaciosvx3/master/assets/brand/logo-dark.svg">
+      <img src="https://raw.githubusercontent.com/gpalaciosvx3/gpalaciosvx3/master/assets/brand/logo-light.svg" alt="Gustavo Palacios" height="64">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gustavopalacios.dev"><img src="https://img.shields.io/badge/web-gustavopalacios.dev-17a267" alt="Web"></a>
+  <a href="https://www.npmjs.com/org/gpkit"><img src="https://img.shields.io/badge/npm-%40gpkit-CB3837?logo=npm&logoColor=white" alt="npm @gpkit"></a>
+  <a href="https://www.linkedin.com/in/gustavopalaciosv"><img src="https://img.shields.io/badge/LinkedIn-gustavopalaciosv-0A66C2" alt="LinkedIn"></a>
+  <a href="https://github.com/gpalaciosvx3"><img src="https://img.shields.io/badge/GitHub-gpalaciosvx3-181717?logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
 # lab-notifier-hub
 
 Plataforma centralizada de notificaciones para arquitecturas de microservicios. Resuelve cuatro problemas reales: templates versionados, idempotencia garantizada, webhooks de entrega y notificaciones programadas.
